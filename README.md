@@ -1,5 +1,7 @@
 # ResumeMatch — AI Resume Builder & ATS Score Checker
 
+**Live demo:** https://ai-resume-ats-checker.streamlit.app
+
 ResumeMatch is a local Streamlit app that compares a PDF resume with a pasted
 job description. It produces an ATS-style match score, highlights important
 keywords that are not present in the resume, and suggests practical edits.
